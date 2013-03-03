@@ -1,4 +1,4 @@
 Community-Radio
 ===============
 
-SWE project
+Please read the file for better understanding of the project.
